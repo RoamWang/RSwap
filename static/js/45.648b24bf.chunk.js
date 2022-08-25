@@ -1,0 +1,2 @@
+(this["webpackJsonp@uniswap/interface"]=this["webpackJsonp@uniswap/interface"]||[]).push([[45],{1787:function(e,i,n){"use strict";n.r(i);var t=n(0);i.default=function(){return Object(t.jsx)("div",{children:"NFT Details Page"})}}}]);
+//# sourceMappingURL=45.648b24bf.chunk.js.map
